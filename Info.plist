@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>dev.arec.cli</string>
+	<key>CFBundleName</key>
+	<string>arec</string>
+	<key>CFBundleVersion</key>
+	<string>0.1.0</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>arec needs microphone access to record your voice.</string>
+	<key>NSAudioCaptureUsageDescription</key>
+	<string>arec needs system audio recording access to capture what your Mac is playing.</string>
+</dict>
+</plist>
